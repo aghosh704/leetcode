@@ -36,5 +36,5 @@ class Solution:
 
 
 
-print(Solution().letterCombinations("23"))
+print(Solution().letterCombinations("234"))
 
